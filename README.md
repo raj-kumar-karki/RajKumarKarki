@@ -1,3 +1,7 @@
-## Support ☕
-[![Buy Me a Coffee](https://img.shields.io/badge/-☕%20Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/ramijar2020)
-[![Ko-fi](https://img.shields.io/badge/-☕%20Ko--fi-brightgreen)](https://ko-fi.com/rammijar)
+## Support Me By Following on Youtube and Github:
+
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://youtube.com/@rkjing)
+
+
+[![Visit My Website](https://img.shields.io/badge/RajKumar%20karki-Visit%20Website-blue)](https://www.rajkumarkarki.com.np/)
